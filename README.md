@@ -33,7 +33,7 @@ Discover the magic of cloud computing! Kids 10-14 will learn how the internet wo
   - They will particpate in hands-on experiments to see how cloud technology powers their favorite websites, apps, and games.
  
 ## Additional Notes
-- THis session will include hands-on activites to uillustrate how data moves through the Internet.
+- This session will include hands-on activites to uillustrate how data moves through the Internet.
 - NO prior knowledge of technology is required.
 - All materials used are safe and non-toxic.
 - Parents and guardians are encouraged to participate alongside their children to enhance the learning experience.
