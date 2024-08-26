@@ -22,8 +22,16 @@ Discover the magic of cloud computing! Kids 10-14 will learn how the internet wo
 - Fun with Tech
 
 ## Learning Objectives
-- Add Learning Objectives here
-
+- **Understand the Basics of Cloud Computing**
+  - Kids will learn what cloud computing is.
+  - They will explore how data is stored and accessed in the cloud.
+- **Discover How Data Travels Across the Internet**
+  - Through interactivee activities, kids will understand the journey of data from their devices to the cloud and back.
+  - They will learn about key concepts like servers, data packets, and internet infrastructure.
+- **Explore Real-World Applications of Cloud Technology**
+  - Kids will see how cloud computing is used in everyday life, from streaming videos to playing online games.
+  - They will particpate in hands-on experiments to see how cloud technology powers their favorite websites, apps, and games.
+ 
 ## Additional Notes
 - THis session will include hands-on activites to uillustrate how data moves through the Internet.
 - NO prior knowledge of technology is required.
